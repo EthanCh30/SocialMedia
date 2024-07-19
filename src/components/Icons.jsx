@@ -19,7 +19,7 @@ import {
 } from 'firebase/firestore';
 import { app } from '../firebase';
 import { useEffect, useState } from 'react';
-import { modalState, postIdState } from '../atom/modalAtom';
+import { modalState, postIdState } from '../atom/modalAtom.js';
 import { useRecoilState } from 'recoil';
 
 export default function Icons({ id, uid }) {
