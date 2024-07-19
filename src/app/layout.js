@@ -9,7 +9,7 @@ import CommentModal from '@/components/CommentModal';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: "Soshow",
+  title: "XxXx",
   description: "Social with other people!",
 };
 
